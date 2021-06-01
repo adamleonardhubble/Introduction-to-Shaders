@@ -1,2 +1,2 @@
-# Introduction-to-Shaders
+# Introduction to Shaders
 Teapot - shader simulation
